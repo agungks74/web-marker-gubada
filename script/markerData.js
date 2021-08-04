@@ -53,31 +53,47 @@ const daftarBahasa = [
           'markerbatak-p1.1.jpg',
           'markerbatak-p1.2.jpg',
           'markerbatak-p1.3.jpg',
-          'marker-swara.jpg',
-          'marker-sandhanganswara.jpg',
-          'marker-sandhanganpwanda.jpg',
+          'markerbatak-p1.4.jpg',
+          'markerbatak-p1.5.jpg',
+          'markerbatak-p1.6.jpg',
         ],
       },
       {
         namaMateri: 'Pelajaran Kedua (Pembendaharaan Kata)',
-        marker: ['marker-kataganti.jpg'],
+        marker: [
+          'markerbatak-p2.1.jpg',
+          'markerbatak-p2.2.jpg',
+          'markerbatak-p2.3.jpg',
+        ],
       },
       {
         namaMateri: 'Pelajaran Ketiga (Sapaan Atau Panggilan Kekerabatan)',
-        marker: ['marker-katatanya.jpg'],
+        marker: ['markerbatak-p3.1.jpg', 'markerbatak-p3.2.jpg'],
       },
       {
         namaMateri: 'Pelajaran Keempat (Pembendaharaan Kata)',
-        marker: ['marker-bagiantubuh.jpg'],
+        marker: [
+          'markerbatak-p4.1.jpg',
+          'markerbatak-p4.2.jpg',
+          'markerbatak-p4.3.jpg',
+        ],
       },
       {
         namaMateri:
           'Pelajaran Kelima (Sapaan atau Panggilan Kekerabatan Terhadap Hula-hula. Terhadap Boru, dan Sesama Boru)',
-        marker: ['marker-jeniswarna.jpg'],
+        marker: [
+          'markerbatak-p5.1.jpg',
+          'markerbatak-p5.2.jpg',
+          'markerbatak-p5.3.jpg',
+        ],
       },
       {
         namaMateri: 'Pelajaran Keenam (Belajar Praktis Aksara Batak)',
-        marker: ['marker-ungkapan.jpg'],
+        marker: [
+          'markerbatak-p6.1.jpg',
+          'markerbatak-p6.2.jpg',
+          'markerbatak-p6.3.jpg',
+        ],
       },
     ],
   },
